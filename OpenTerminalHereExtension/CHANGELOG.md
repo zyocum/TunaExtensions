@@ -2,5 +2,5 @@
 
 ## 0.1
 
-- Add Open in Alacritty, Ghostty, iTerm2, kitty, Terminal, Warp, and WezTerm actions for files,
-  folders, and path text.
+- Add the Open Terminal Here action for files, folders, and path text. The Terminal setting chooses
+  Alacritty, Ghostty, iTerm2, kitty, Terminal, Warp, or WezTerm.
